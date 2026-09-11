@@ -1,0 +1,89 @@
+{
+  "dossier_source": "/Users/zenray/Downloads/tmp-selection-v2",
+  "images": [
+    {
+      "id": "01",
+      "file": "IMG_7081.JPG",
+      "path": "/Users/zenray/Downloads/tmp-selection-v2/IMG_7081.JPG",
+      "width": 4032,
+      "height": 3024
+    },
+    {
+      "id": "02",
+      "file": "IMG_7085.JPG",
+      "path": "/Users/zenray/Downloads/tmp-selection-v2/IMG_7085.JPG",
+      "width": 5712,
+      "height": 4284
+    },
+    {
+      "id": "03",
+      "file": "IMG_7090.JPG",
+      "path": "/Users/zenray/Downloads/tmp-selection-v2/IMG_7090.JPG",
+      "width": 4032,
+      "height": 3024
+    },
+    {
+      "id": "04",
+      "file": "IMG_7098.JPG",
+      "path": "/Users/zenray/Downloads/tmp-selection-v2/IMG_7098.JPG",
+      "width": 5712,
+      "height": 4284
+    },
+    {
+      "id": "05",
+      "file": "IMG_7100.JPG",
+      "path": "/Users/zenray/Downloads/tmp-selection-v2/IMG_7100.JPG",
+      "width": 5712,
+      "height": 4284
+    },
+    {
+      "id": "06",
+      "file": "IMG_7101.JPG",
+      "path": "/Users/zenray/Downloads/tmp-selection-v2/IMG_7101.JPG",
+      "width": 5712,
+      "height": 4284
+    },
+    {
+      "id": "07",
+      "file": "IMG_7102.JPG",
+      "path": "/Users/zenray/Downloads/tmp-selection-v2/IMG_7102.JPG",
+      "width": 5712,
+      "height": 4284
+    },
+    {
+      "id": "09",
+      "file": "IMG_7117.JPG",
+      "path": "/Users/zenray/Downloads/tmp-selection-v2/IMG_7117.JPG",
+      "width": 5712,
+      "height": 4284
+    },
+    {
+      "id": "10",
+      "file": "IMG_7118.JPG",
+      "path": "/Users/zenray/Downloads/tmp-selection-v2/IMG_7118.JPG",
+      "width": 5712,
+      "height": 4284
+    },
+    {
+      "id": "11",
+      "file": "IMG_7119.JPG",
+      "path": "/Users/zenray/Downloads/tmp-selection-v2/IMG_7119.JPG",
+      "width": 5712,
+      "height": 4284
+    },
+    {
+      "id": "12",
+      "file": "IMG_7128.JPG",
+      "path": "/Users/zenray/Downloads/tmp-selection-v2/IMG_7128.JPG",
+      "width": 5712,
+      "height": 4284
+    },
+    {
+      "id": "13",
+      "file": "IMG_7131.JPG",
+      "path": "/Users/zenray/Downloads/tmp-selection-v2/IMG_7131.JPG",
+      "width": 5712,
+      "height": 4284
+    }
+  ]
+}

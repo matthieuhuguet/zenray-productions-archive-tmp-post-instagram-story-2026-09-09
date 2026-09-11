@@ -1,0 +1,972 @@
+{
+  "project": "tmp-selection1",
+  "format": {
+    "key": "4:5",
+    "w": 1080,
+    "h": 1350,
+    "factor": 3
+  },
+  "order": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "10",
+    "09",
+    "11",
+    "13",
+    "12"
+  ],
+  "images": {
+    "10": {
+      "position": 9,
+      "source_id": "10",
+      "file": "IMG_7118.JPG",
+      "variation": null,
+      "output": "09.jpg",
+      "crop": {
+        "zoom": 1,
+        "px": 100,
+        "py": 50,
+        "rotate": 0
+      },
+      "border": {
+        "enabled": true,
+        "color": "#c4c3b9",
+        "thickness": 46,
+        "radius": 47,
+        "openSide": "right"
+      },
+      "photo": {
+        "vignette": 50,
+        "grain": 0,
+        "selective": [
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          },
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          },
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          },
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          },
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          },
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          }
+        ],
+        "levels": {
+          "inputBlack": 0,
+          "midtone": 50,
+          "inputWhite": 100,
+          "outputBlack": 0,
+          "outputWhite": 100
+        },
+        "blackAndWhite": 0,
+        "saturation": 15,
+        "vibrance": 0,
+        "brilliance": 0,
+        "exposure": 0,
+        "highlights": 0,
+        "shadows": 0,
+        "brightness": -5,
+        "contrast": 20,
+        "blackPoint": 5,
+        "filter": "Vivid Cool",
+        "filterStrength": 100
+      },
+      "text": []
+    },
+    "11": {
+      "position": 11,
+      "source_id": "11",
+      "file": "IMG_7119.JPG",
+      "variation": null,
+      "output": "11.jpg",
+      "crop": {
+        "zoom": 1,
+        "px": 50,
+        "py": 50,
+        "rotate": 0
+      },
+      "border": {
+        "enabled": false,
+        "color": "#c4c3b9",
+        "thickness": 42,
+        "radius": 39,
+        "openSide": "none"
+      },
+      "photo": {
+        "vignette": 50,
+        "grain": 0,
+        "selective": [
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          },
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          },
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          },
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          },
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          },
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          }
+        ],
+        "levels": {
+          "inputBlack": 0,
+          "midtone": 50,
+          "inputWhite": 100,
+          "outputBlack": 0,
+          "outputWhite": 100
+        },
+        "blackAndWhite": 0,
+        "saturation": 15,
+        "vibrance": -100,
+        "brilliance": 0,
+        "exposure": 0,
+        "highlights": 0,
+        "shadows": 0,
+        "brightness": -5,
+        "contrast": 20,
+        "blackPoint": 5,
+        "filter": "Vivid Cool",
+        "filterStrength": 100
+      },
+      "text": []
+    },
+    "12": {
+      "position": 13,
+      "source_id": "12",
+      "file": "IMG_7128.JPG",
+      "variation": null,
+      "output": "13.jpg",
+      "crop": {
+        "zoom": 1,
+        "px": 50,
+        "py": 50,
+        "rotate": 0
+      },
+      "border": {
+        "enabled": false,
+        "color": "#c4c3b9",
+        "thickness": 6,
+        "radius": 6,
+        "openSide": "none"
+      },
+      "photo": {
+        "vignette": 50,
+        "grain": 0,
+        "selective": [
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          },
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          },
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          },
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          },
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          },
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          }
+        ],
+        "levels": {
+          "inputBlack": 0,
+          "midtone": 50,
+          "inputWhite": 100,
+          "outputBlack": 0,
+          "outputWhite": 100
+        },
+        "blackAndWhite": 0,
+        "saturation": 15,
+        "vibrance": 0,
+        "brilliance": 0,
+        "exposure": 0,
+        "highlights": 0,
+        "shadows": 0,
+        "brightness": -5,
+        "contrast": 20,
+        "blackPoint": 5,
+        "filter": "Vivid Cool",
+        "filterStrength": 100
+      },
+      "text": []
+    },
+    "13": {
+      "position": 12,
+      "source_id": "13",
+      "file": "IMG_7131.JPG",
+      "variation": null,
+      "output": "12.jpg",
+      "crop": {
+        "zoom": 1,
+        "px": 50,
+        "py": 50,
+        "rotate": 0
+      },
+      "border": {
+        "enabled": false,
+        "color": "#c4c3b9",
+        "thickness": 6,
+        "radius": 6,
+        "openSide": "none"
+      },
+      "photo": {
+        "vignette": 50,
+        "grain": 0,
+        "selective": [
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          },
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          },
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          },
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          },
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          },
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          }
+        ],
+        "levels": {
+          "inputBlack": 0,
+          "midtone": 50,
+          "inputWhite": 100,
+          "outputBlack": 0,
+          "outputWhite": 100
+        },
+        "blackAndWhite": 0,
+        "saturation": 15,
+        "vibrance": 0,
+        "brilliance": 0,
+        "exposure": 0,
+        "highlights": 0,
+        "shadows": 0,
+        "brightness": -5,
+        "contrast": 20,
+        "blackPoint": 5,
+        "filter": "Vivid Cool",
+        "filterStrength": 100
+      },
+      "text": []
+    },
+    "01": {
+      "position": 1,
+      "source_id": "01",
+      "file": "IMG_7081.JPG",
+      "variation": null,
+      "output": "01.jpg",
+      "crop": {
+        "zoom": 1,
+        "px": 50,
+        "py": 50,
+        "rotate": 0
+      },
+      "border": {
+        "enabled": false,
+        "color": "#c4c3b9",
+        "thickness": 6,
+        "radius": 6,
+        "openSide": "none"
+      },
+      "photo": {
+        "vignette": 50,
+        "grain": 0,
+        "selective": [
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          },
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          },
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          },
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          },
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          },
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          }
+        ],
+        "levels": {
+          "inputBlack": 0,
+          "midtone": 50,
+          "inputWhite": 100,
+          "outputBlack": 0,
+          "outputWhite": 100
+        },
+        "blackAndWhite": 0,
+        "saturation": 15,
+        "vibrance": 0,
+        "brilliance": 0,
+        "exposure": 0,
+        "highlights": 0,
+        "shadows": 0,
+        "brightness": -5,
+        "contrast": 20,
+        "blackPoint": 5,
+        "filter": "Vivid Cool",
+        "filterStrength": 100
+      },
+      "text": [
+        {
+          "value": "Return to France, Provence",
+          "font": "serif",
+          "weight": 400,
+          "size_px": 216,
+          "requested_size_px": 216,
+          "color": "#ffffff",
+          "anchor": "bottom-center",
+          "shadow": {
+            "enabled": true,
+            "size": 23,
+            "strength": 35
+          }
+        }
+      ]
+    },
+    "02": {
+      "position": 2,
+      "source_id": "02",
+      "file": "IMG_7085.JPG",
+      "variation": null,
+      "output": "02.jpg",
+      "crop": {
+        "zoom": 1,
+        "px": 50,
+        "py": 50,
+        "rotate": 0
+      },
+      "border": {
+        "enabled": false,
+        "color": "#c4c3b9",
+        "thickness": 6,
+        "radius": 6,
+        "openSide": "none"
+      },
+      "photo": {
+        "vignette": 50,
+        "grain": 0,
+        "selective": [
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          },
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          },
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          },
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          },
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          },
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          }
+        ],
+        "levels": {
+          "inputBlack": 0,
+          "midtone": 50,
+          "inputWhite": 100,
+          "outputBlack": 0,
+          "outputWhite": 100
+        },
+        "blackAndWhite": 0,
+        "saturation": 15,
+        "vibrance": 0,
+        "brilliance": 0,
+        "exposure": 0,
+        "highlights": 0,
+        "shadows": 0,
+        "brightness": -5,
+        "contrast": 20,
+        "blackPoint": 5,
+        "filter": "Vivid Cool",
+        "filterStrength": 100
+      },
+      "text": []
+    },
+    "03": {
+      "position": 3,
+      "source_id": "03",
+      "file": "IMG_7090.JPG",
+      "variation": null,
+      "output": "03.jpg",
+      "crop": {
+        "zoom": 1,
+        "px": 50,
+        "py": 50,
+        "rotate": 0
+      },
+      "border": {
+        "enabled": false,
+        "color": "#c4c3b9",
+        "thickness": 6,
+        "radius": 6,
+        "openSide": "none"
+      },
+      "photo": {
+        "vignette": 50,
+        "grain": 0,
+        "selective": [
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          },
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          },
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          },
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          },
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          },
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          }
+        ],
+        "levels": {
+          "inputBlack": 0,
+          "midtone": 50,
+          "inputWhite": 100,
+          "outputBlack": 0,
+          "outputWhite": 100
+        },
+        "blackAndWhite": 0,
+        "saturation": 15,
+        "vibrance": 0,
+        "brilliance": 0,
+        "exposure": 0,
+        "highlights": 0,
+        "shadows": 0,
+        "brightness": -5,
+        "contrast": 20,
+        "blackPoint": 5,
+        "filter": "Vivid Cool",
+        "filterStrength": 100
+      },
+      "text": []
+    },
+    "04": {
+      "position": 4,
+      "source_id": "04",
+      "file": "IMG_7098.JPG",
+      "variation": null,
+      "output": "04.jpg",
+      "crop": {
+        "zoom": 1,
+        "px": 50,
+        "py": 50,
+        "rotate": 0
+      },
+      "border": {
+        "enabled": false,
+        "color": "#c4c3b9",
+        "thickness": 6,
+        "radius": 6,
+        "openSide": "none"
+      },
+      "photo": {
+        "vignette": 50,
+        "grain": 0,
+        "selective": [
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          },
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          },
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          },
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          },
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          },
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          }
+        ],
+        "levels": {
+          "inputBlack": 0,
+          "midtone": 50,
+          "inputWhite": 100,
+          "outputBlack": 0,
+          "outputWhite": 100
+        },
+        "blackAndWhite": 0,
+        "saturation": 15,
+        "vibrance": 0,
+        "brilliance": 0,
+        "exposure": 0,
+        "highlights": 0,
+        "shadows": 0,
+        "brightness": -5,
+        "contrast": 20,
+        "blackPoint": 5,
+        "filter": "Vivid Cool",
+        "filterStrength": 100
+      },
+      "text": []
+    },
+    "05": {
+      "position": 5,
+      "source_id": "05",
+      "file": "IMG_7100.JPG",
+      "variation": null,
+      "output": "05.jpg",
+      "crop": {
+        "zoom": 1,
+        "px": 50,
+        "py": 50,
+        "rotate": 0
+      },
+      "border": {
+        "enabled": false,
+        "color": "#c4c3b9",
+        "thickness": 6,
+        "radius": 6,
+        "openSide": "none"
+      },
+      "photo": {
+        "vignette": 50,
+        "grain": 0,
+        "selective": [
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          },
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          },
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          },
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          },
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          },
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          }
+        ],
+        "levels": {
+          "inputBlack": 0,
+          "midtone": 50,
+          "inputWhite": 100,
+          "outputBlack": 0,
+          "outputWhite": 100
+        },
+        "blackAndWhite": 0,
+        "saturation": 15,
+        "vibrance": 0,
+        "brilliance": 0,
+        "exposure": 0,
+        "highlights": 0,
+        "shadows": 0,
+        "brightness": -5,
+        "contrast": 20,
+        "blackPoint": 5,
+        "filter": "Vivid Cool",
+        "filterStrength": 100
+      },
+      "text": []
+    },
+    "06": {
+      "position": 6,
+      "source_id": "06",
+      "file": "IMG_7101.JPG",
+      "variation": null,
+      "output": "06.jpg",
+      "crop": {
+        "zoom": 1,
+        "px": 50,
+        "py": 50,
+        "rotate": 0
+      },
+      "border": {
+        "enabled": false,
+        "color": "#c4c3b9",
+        "thickness": 6,
+        "radius": 6,
+        "openSide": "none"
+      },
+      "photo": {
+        "vignette": 50,
+        "grain": 0,
+        "selective": [
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          },
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          },
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          },
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          },
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          },
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          }
+        ],
+        "levels": {
+          "inputBlack": 0,
+          "midtone": 50,
+          "inputWhite": 100,
+          "outputBlack": 0,
+          "outputWhite": 100
+        },
+        "blackAndWhite": 0,
+        "saturation": 15,
+        "vibrance": 0,
+        "brilliance": 0,
+        "exposure": 0,
+        "highlights": 0,
+        "shadows": 0,
+        "brightness": -5,
+        "contrast": 20,
+        "blackPoint": 5,
+        "filter": "Vivid Cool",
+        "filterStrength": 100
+      },
+      "text": []
+    },
+    "07": {
+      "position": 7,
+      "source_id": "07",
+      "file": "IMG_7102.JPG",
+      "variation": null,
+      "output": "07.jpg",
+      "crop": {
+        "zoom": 1,
+        "px": 50,
+        "py": 50,
+        "rotate": 0
+      },
+      "border": {
+        "enabled": false,
+        "color": "#c4c3b9",
+        "thickness": 6,
+        "radius": 6,
+        "openSide": "none"
+      },
+      "photo": {
+        "vignette": 50,
+        "grain": 0,
+        "selective": [
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          },
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          },
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          },
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          },
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          },
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          }
+        ],
+        "levels": {
+          "inputBlack": 0,
+          "midtone": 50,
+          "inputWhite": 100,
+          "outputBlack": 0,
+          "outputWhite": 100
+        },
+        "blackAndWhite": 0,
+        "saturation": 15,
+        "vibrance": 0,
+        "brilliance": 0,
+        "exposure": 0,
+        "highlights": 0,
+        "shadows": 0,
+        "brightness": -5,
+        "contrast": 20,
+        "blackPoint": 5,
+        "filter": "Vivid Cool",
+        "filterStrength": 100
+      },
+      "text": []
+    },
+    "09": {
+      "position": 10,
+      "source_id": "09",
+      "file": "IMG_7117.JPG",
+      "variation": null,
+      "output": "10.jpg",
+      "crop": {
+        "zoom": 1,
+        "px": 100,
+        "py": 50,
+        "rotate": 0
+      },
+      "border": {
+        "enabled": true,
+        "color": "#c4c3b9",
+        "thickness": 46,
+        "radius": 47,
+        "openSide": "left"
+      },
+      "photo": {
+        "vignette": 50,
+        "grain": 0,
+        "selective": [
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          },
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          },
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          },
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          },
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          },
+          {
+            "hue": 0,
+            "saturation": 0,
+            "luminance": 0
+          }
+        ],
+        "levels": {
+          "inputBlack": 0,
+          "midtone": 50,
+          "inputWhite": 100,
+          "outputBlack": 0,
+          "outputWhite": 100
+        },
+        "blackAndWhite": 0,
+        "saturation": 15,
+        "vibrance": 0,
+        "brilliance": 0,
+        "exposure": 0,
+        "highlights": 0,
+        "shadows": 0,
+        "brightness": -5,
+        "contrast": 20,
+        "blackPoint": 5,
+        "filter": "Vivid Cool",
+        "filterStrength": 100
+      },
+      "text": [
+        {
+          "value": "POV: You just realized cucumber juice is disgusting.",
+          "font": "sans",
+          "weight": 900,
+          "size_px": 114,
+          "requested_size_px": 200,
+          "color": "#f6cf47",
+          "anchor": "bottom-center",
+          "shadow": {
+            "enabled": true,
+            "size": 40,
+            "strength": 40
+          }
+        }
+      ]
+    }
+  },
+  "post": {
+    "text": "",
+    "format": "4:5",
+    "limit": 2200
+  }
+}
